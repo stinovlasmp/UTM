@@ -8,9 +8,9 @@
 UTM je plně funkční emulátor systému a hostitel virtuálních strojů pro iOS a macOS. Je založen na QEMU. Stručně řečeno, umožňuje vám spouštět Windows, Linux a další na vašem Macu, iPhonu a iPadu. Více informací na https://getutm.app/ a https://mac.getutm.app/
 
 
-<img width="450" height="430" alt="obrazek" src="https://github.com/stinovlasmp/UTM/blob/main/screen.png" />
+<img width="450" height="430" alt="UTM na iPhone" src="https://github.com/stinovlasmp/UTM/blob/main/screen.png" />
 
-<img width="450" height="430" alt="obrazek" src="https://github.com/stinovlasmp/UTM/blob/main/screenmac.png" />
+<img width="450" height="430" alt="UTM na Macbooku" src="https://github.com/stinovlasmp/UTM/blob/main/screenmac.png" />
 
 ## Funkce
 
